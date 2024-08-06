@@ -6,7 +6,4 @@ Hey I’m @scientistmdl. But my real name is, Sam Harris!
 
 I hope we as a community get along together and create beautiful projects in the future.
 
-<!---
-scientistmdl/scientistmdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Capture](https://github.com/user-attachments/assets/18325732-1db0-4164-aeba-ca15ea7a41a9)
